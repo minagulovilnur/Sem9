@@ -1,0 +1,162 @@
+
+.brand{
+    font-size: 25pt;
+}
+
+.luxerious{
+    font-size: 15px;
+}
+
+
+#search{
+    top:18.75%;
+    left: 10vh;
+}
+
+#user, #buy{
+    display: none;
+}
+
+#man{
+   display: none;
+}
+
+#man img{
+    display: none;
+}
+
+#menu{
+    left: 70%;
+    top: 20%;
+}
+#textBlock1{
+    height: 100%;
+    font-size: 27pt;
+    width: inherit;
+    margin-left: 50px;
+    line-height: 30px;
+    font-family: 'Lato';
+}
+
+
+
+#textBlock1 span{
+    font-size: 34pt;
+}
+
+#textBlock1 p{
+    display: contents;
+}
+
+
+.slider{
+    height: 363px;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:14px;
+}
+
+.wrappTextBlock{
+    margin-right: 60px;
+}
+
+.woman, .man, .kids, .banner{
+    width: 343px;
+}
+
+.woman img{
+ width: 100%;
+}
+
+.man img{
+    width: 100%;
+}
+
+.kids img{
+    width: 100%;
+}
+
+.banner img{
+    width: 100%;
+    height: 125px;
+}
+
+.wrapperContainer{
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.containerProduct{
+    display: flex;
+    flex-direction: column;
+    margin-left:10px;
+    gap:18px;
+    align-items: center;
+    margin-top: 17px;
+}
+
+
+
+.forAccesoires{
+    display: flex;
+    flex-direction: column;
+    margin: 14% 27%;
+}
+
+.forWoman, .forMan, .forKids{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.textImage{
+    padding: 10px;
+}
+
+.Fetured{
+    padding-left: 24px;
+}
+
+.menu{
+    margin-left:-53%;
+}
+.containerIcon{
+    flex-direction: column;
+    gap: 0px;
+}
+
+.wrappUserNackBuyer{
+margin-left: 13px;
+margin-top: 21px;
+}
+
+.containerContentFooter{
+    flex-direction: column;
+}
+
+.containerSubscribe{
+    margin-left: 29px;
+    margin-top: 20px;
+}
+
+.descIcon{
+    width: 260px;
+}
+.otherProduct{
+    margin-top: 5px;
+}
+
+.coverSubscribe{
+    width: 369px;
+}
+
+.copyrightFooter span{
+    margin-left: 8%;
+    margin-right: 11%;
+}
